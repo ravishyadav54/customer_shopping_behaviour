@@ -48,6 +48,7 @@ Pandas,
 Data Analysis & EDA
 
 Project Outcomes
+
 This analysis demonstrates how data analytics can support business decision-making by identifying:
 Customer purchasing patterns
 Revenue-generating customer segments
