@@ -41,11 +41,11 @@ Subscription behaviour
 
 Tools & Technologies
 
-Python
-SQL
-BigQuery
-Google Colab
-Pandas
+Python, 
+SQL, 
+BigQuery, 
+Google Colab, 
+Pandas, 
 Data Analysis & EDA
 
 Project Outcomes
