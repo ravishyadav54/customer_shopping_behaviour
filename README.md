@@ -39,6 +39,7 @@ Customer segmentation
 Subscription behaviour
 
 Tools & Technologies
+
 Python, 
 SQL, 
 BigQuery, 
